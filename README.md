@@ -1,5 +1,8 @@
 # Deep_Learning_Project
+
 **Dataset Description**
+
+BACH dataset. (2019). CC BY-NC-ND. Retrieved from https://github.com/bupt-ai-cz/BreastCancerCNN
 
 Microscopy images are labeled as normal, benign, in situ carcinoma, or invasive carcinoma according to the predominant cancer type in each image. The annotation was performed by two medical experts and images where there was disagreement were discarded.
 
